@@ -1,0 +1,9 @@
+.name-alert,.age-alert,.phone-alert{
+    display: none;
+}
+.head , .today
+{
+    color: #09c;
+    text-align: center;
+    font-size: 60px;
+}
